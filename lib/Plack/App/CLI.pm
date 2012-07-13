@@ -182,7 +182,7 @@ __END__
 
 =head1 NAME 
 
-Plack::Handler::CLI - Command Line Interface to PSGI
+Plack::App::CLI - Command Line Interface to PSGI
 
 =head1 SYNOPIS 
 
